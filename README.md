@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+## Quiz App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple quiz application built using React. Demonstrating React Context API a built in react tool for state management used to pass global variables anywhere in the code along with React's useState hook.
+
+## Features
+
+Quiz Questions: Displays multiple-choice quiz questions.
+State Management: Utilizes React Context API for global state management.
+User Interaction: Allows users to select answers and navigate through questions.
+
+## Technologies Used
+
+React: A JavaScript library for building user interfaces.
+React Context API: A component-based state management system.
+React useState: A hook used for adding state to functional components.
 
 ## Available Scripts
 
